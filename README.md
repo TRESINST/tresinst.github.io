@@ -1,13 +1,83 @@
-Triunity Research Institute
-Triunity Research Institute is an independent specialist R&D entity dedicated to the deep convergence of nanotechnology, synthetic biology, quantum-biological computation, and the substrates of consciousness and human potential.We conduct open-source R&D in:
+# Triunity Research Institute
 
-• Bio-nano interfaces, programmable cellular architectures, and living machine systems
-• Quantum-coherent biological processes (microtubule dynamics, Orch OR mechanisms)
-• Morphic resonance fields, non-local memory transmission, and collective pattern dynamics
-• Bio-digital augmentation pathways, neural sovereignty technologies, and consciousness interface layers:
-• Geomagnetic and rare-earth influences on quantum-biological coherence and engineered substrates
-• Emerging architectures of human-machine symbiosis, cognitive sovereignty, and existential resilience  
+<p align="center">
+  <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44222-025-00374-7/MediaObjects/44222_2025_374_Fig3_HTML.png" alt="Bio-nano interface conceptual diagram" width="600"/>
+  <br/>
+  <em>Conceptual representation of advanced bio-nano tissue-level interfaces</em>
+</p>
 
-All work is grounded in verifiable public-domain sources: peer-reviewed literature, open patents, experimental replications, open datasets, and interdisciplinary syntheses. Outputs include mechanism breakdowns, trend models, architectural mappings, and archival dossiers.Triunity exists to illuminate and shape the architecture of biological, technological, quantum, and conscious systems—bridging material, informational, and meta-physical domains—while developing ethical frameworks and sovereignty strategies for the biotechnological singularity.All content is analytical, evidence-constrained, and transparent. 
+**An independent specialist R&D entity** dedicated to the deep convergence of:
 
-No classified or unsubstantiated material is presented. Open-access platform for scientific inquiry, responsible innovation, and existential reflection.
+- **Nanotechnology**  
+- **Synthetic Biology**  
+- **Quantum-Biological Computation**  
+- **Substrates of Consciousness** and **Human Potential**
+
+Triunity conducts **open-source R&D** at the frontier where biology, quantum physics, information, and consciousness intersect.
+
+<p align="center">
+  <img src="https://mappingignorance.org/app/uploads/2015/06/Figure4-hameroff-penrose.jpg" alt="Microtubule quantum coherence in Orch OR theory" width="500"/>
+  <br/>
+  <em>Microtubule structure and quantum coherence processes (Orch OR framework)</em>
+</p>
+
+## Core Research Domains
+
+We pursue rigorous, evidence-based inquiry in the following areas:
+
+- **Bio-nano interfaces**, programmable cellular architectures, and **living machine systems**  
+  <img src="https://static-01.extrica.com/articles/23867/23867-gabs-2382x1432.webp" alt="Biophysical electromagnetic processes across scales" width="400" align="right"/>
+
+- **Quantum-coherent biological processes**  
+  - Microtubule dynamics  
+  - Orch OR mechanisms  
+
+- **Morphic resonance fields**, non-local memory transmission, and **collective pattern dynamics**
+
+- **Bio-digital augmentation pathways**, **neural sovereignty technologies**, and **consciousness interface layers**
+
+- **Geomagnetic** and **rare-earth influences** on quantum-biological coherence and engineered substrates
+
+- **Emerging architectures** of human-machine symbiosis, cognitive sovereignty, and existential resilience  
+  <img src="https://clickodigital.com/wp-content/uploads/2024/09/Group-3645_1x-1.png" alt="Human-machine symbiosis and neural augmentation" width="500"/>
+
+<p align="center">
+  <img src="https://www.thetransmitter.org/wp-content/uploads/2024/11/ai-history-neuro-Zador-1200.webp" alt="NeuroAI and brain symbiosis artistic view" width="600"/>
+  <br/>
+  <em>Artistic visualization of neuroscience-AI symbiosis and cognitive networks</em>
+</p>
+
+## Our Commitment
+
+> All work is **grounded in verifiable public-domain sources**:  
+> • Peer-reviewed literature  
+> • Open patents  
+> • Experimental replications  
+> • Open datasets  
+> • Interdisciplinary syntheses  
+
+**Outputs** include:
+- Mechanism breakdowns
+- Trend models
+- Architectural mappings
+- Archival dossiers
+
+Triunity exists to **illuminate and shape** the architecture of biological, technological, quantum, and conscious systems—bridging **material**, **informational**, and **meta-physical** domains—while developing **ethical frameworks** and **sovereignty strategies** for the biotechnological singularity.
+
+All content is **analytical**, **evidence-constrained**, and **transparent**.  
+**No classified or unsubstantiated material** is presented.
+
+## Mission
+
+An **open-access platform** for:
+- Scientific inquiry
+- Responsible innovation
+- Existential reflection
+
+<p align="center">
+  <strong>Exploring the frontiers of life, mind, and machine — with rigor, openness, and ethical foresight.</strong> 🌌🧬⚛️
+</p>
+
+---
+
+*Triunity Research Institute — Illuminating the Convergence*
