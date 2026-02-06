@@ -34,12 +34,6 @@ We pursue rigorous, evidence-based inquiry in the following areas:
 - **Geomagnetic** and **rare-earth influences** on quantum-biological coherence and engineered substrates  
 - **Emerging architectures** of human-machine symbiosis, cognitive sovereignty, and existential resilience  
 
-<p align="center">
-  <img src="https://clickodigital.com/wp-content/uploads/2024/09/Group-3645_1x-1.png" alt="Human-machine symbiosis and neural augmentation" width="500"/>
-  <br/>
-  <em>Visualization of human-machine symbiosis and neural augmentation pathways</em>
-</p>
-
 ## Our Commitment
 
 > All work is **grounded in verifiable public-domain sources**:  
