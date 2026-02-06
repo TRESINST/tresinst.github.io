@@ -26,25 +26,18 @@ Triunity conducts **open-source R&D** at the frontier where biology, quantum phy
 We pursue rigorous, evidence-based inquiry in the following areas:
 
 - **Bio-nano interfaces**, programmable cellular architectures, and **living machine systems**  
-  <img src="https://static-01.extrica.com/articles/23867/23867-gabs-2382x1432.webp" alt="Biophysical electromagnetic processes across scales" width="400" align="right"/>
-
 - **Quantum-coherent biological processes**  
   - Microtubule dynamics  
   - Orch OR mechanisms  
-
-- **Morphic resonance fields**, non-local memory transmission, and **collective pattern dynamics**
-
-- **Bio-digital augmentation pathways**, **neural sovereignty technologies**, and **consciousness interface layers**
-
-- **Geomagnetic** and **rare-earth influences** on quantum-biological coherence and engineered substrates
-
+- **Morphic resonance fields**, non-local memory transmission, and **collective pattern dynamics**  
+- **Bio-digital augmentation pathways**, **neural sovereignty technologies**, and **consciousness interface layers**  
+- **Geomagnetic** and **rare-earth influences** on quantum-biological coherence and engineered substrates  
 - **Emerging architectures** of human-machine symbiosis, cognitive sovereignty, and existential resilience  
-  <img src="https://clickodigital.com/wp-content/uploads/2024/09/Group-3645_1x-1.png" alt="Human-machine symbiosis and neural augmentation" width="500"/>
 
 <p align="center">
-  <img src="https://www.thetransmitter.org/wp-content/uploads/2024/11/ai-history-neuro-Zador-1200.webp" alt="NeuroAI and brain symbiosis artistic view" width="600"/>
+  <img src="https://clickodigital.com/wp-content/uploads/2024/09/Group-3645_1x-1.png" alt="Human-machine symbiosis and neural augmentation" width="500"/>
   <br/>
-  <em>Artistic visualization of neuroscience-AI symbiosis and cognitive networks</em>
+  <em>Visualization of human-machine symbiosis and neural augmentation pathways</em>
 </p>
 
 ## Our Commitment
@@ -80,4 +73,6 @@ An **open-access platform** for:
 
 ---
 
-*Triunity Research Institute — Illuminating the Convergence*
+<p align="center">
+  <em>Triunity Research Institute — Illuminating the Convergence</em>
+</p>
